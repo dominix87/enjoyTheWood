@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'Futura PT';
+    src: url('subset-FuturaPT-Book.eot');
+    src: url('subset-FuturaPT-Book.eot?#iefix') format('embedded-opentype'),
+        url('subset-FuturaPT-Book.woff2') format('woff2'),
+        url('subset-FuturaPT-Book.woff') format('woff'),
+        url('subset-FuturaPT-Book.ttf') format('truetype'),
+        url('subset-FuturaPT-Book.svg#FuturaPT-Book') format('svg');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Acrom';
+    src: url('subset-Acrom-Bold.eot');
+    src: url('subset-Acrom-Bold.eot?#iefix') format('embedded-opentype'),
+        url('subset-Acrom-Bold.woff2') format('woff2'),
+        url('subset-Acrom-Bold.woff') format('woff'),
+        url('subset-Acrom-Bold.ttf') format('truetype'),
+        url('subset-Acrom-Bold.svg#Acrom-Bold') format('svg');
+    font-weight: 700;
+    font-style: normal;
+}
+
